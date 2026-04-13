@@ -6,4 +6,4 @@
 :HL["/tiktok.svg","image"]
 :HL["/mail.svg","image"]
 :HL["/poze/club/itc_about.jpeg","image"]
-0:{"buildId":"liaLm_-8Zxf65csLyj5Mf","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Xm-AEV0Bc6lrqrz0tzzJ7","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
